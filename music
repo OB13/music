@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",PPP_TV
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/PPP_TV_1202_500_480x360_881114/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRACE_MZIKI
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/TRACE_MZIKI_952_500_480x360_195202/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NAIJA
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/ST_NAIJA_896_500_480x360_194022/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SA_MUSIC
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/ST_SA_Music_900_500_480x360_194030/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ST_soul
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/ST_Soul_946_500_480x360_195166/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CLOUDS_TV
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/CLOUDS_TV_880_500_480x360_323160/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Chinese
+http://ke-safaricom-cache01-video.gslb.startimestv.com/live/ST_CHINESE_HOMELAND_657_500_480x360_51123/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",30a-tv
+https://30a-tv.com/music.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Boxhits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:0 tvg-id="ext" group-title="Channels",Afrobeat_tv
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",B4Umusic
+http://103.199.161.254:80/Content/B4Umusic/Live/Channel%28B4Umusic%29/Stream(01)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Akaram-live
+http://akaram.zecast.net:80/akaram-live/akarammix1/chunklist_w1207993486.m3u8?nimblesessionid=491467912
